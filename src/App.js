@@ -103,7 +103,7 @@ function App() {
                     setNumberAllowed((prev) => !prev);
                   }}
                 />
-                Without Numbers
+                With Numbers
               </label>
             </div>
             <div>
@@ -117,7 +117,7 @@ function App() {
                     setCharAllowed((prev) => !prev);
                   }}
                 />
-                Without Special Character
+                With Special Character
               </label>
             </div>
           </div>
